@@ -1,4 +1,4 @@
-## Hellow World I'm Sanusi 👋
+## Hello I'm Sanusi 👋
 
 ![Header Profile](img/header.png)
 
