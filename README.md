@@ -25,4 +25,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,bootstrap,tailwind,jquery,php,laravel,docker,nodejs,express,react,github,postgres,postman,git)](https://skillicons.dev)
 
+##### Static
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanusi15&show_icons=true&theme=catppuccin_mocha)
