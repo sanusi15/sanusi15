@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,bootstrap,tailwind,jquery,php,laravel,docker,nodejs,express,react,github,postgres,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,bootstrap,tailwind,jquery,php,laravel,docker,nodejs,express,react,postgres)](https://skillicons.dev)
 
 ##### Static
 
