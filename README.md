@@ -10,7 +10,7 @@ I'm a passionate **Fullstack Developer** who loves building scalable web applica
 
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,codeigniter,nodejs,react,express,mysql,postgres,nginx,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,codeigniter,nodejs,react,express,mysql,postgres,mongo,nginx,redux,docker,git,github)](https://skillicons.dev)
 
 ---
 
